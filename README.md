@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @YenWick<br>👀 I’m interested in programming, developing apps and game development<br>🌱 I’m currently learning
+👋 Hi, I’m @YenWick<br>👀 I’m interested in programming, developing apps and games<br>🌱 I’m currently learning
 
 
 # 💻 Tech Stack:
