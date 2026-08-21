@@ -17,7 +17,7 @@
 🔵![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ## 🗄️ Bases de datos
 🟣![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-##🛠️ Desarrollo / Herramientas
+## 🛠️ Desarrollo / Herramientas
 🟢![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 🟣![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 🔵![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
